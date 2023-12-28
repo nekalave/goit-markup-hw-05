@@ -648,8 +648,7 @@ img {
     display: flex;
     justify-content: flex-end;
     padding: 8px;
-    transition: scale 250ms var(--animation-function),
-                translate 250ms var(--animation-function)
+    transition: scale 250ms var(--animation-function);
 }
 
 .modal-close-button {
